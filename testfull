@@ -1,0 +1,175 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1 HD" tvg-logo="http://www.userlogos.org/files/logos/Karmody/tf1_01.png" group-title="1.1 France HD",TF1 HD
+http://ndasat.net:8000/live/313516512519026/1593574628/7819.ts
+#EXTINF:-1 tvg-id="" tvg-name="TF1 +1 HD" tvg-logo="https://www.telesatellite.com/images/actu/t/tf1-plus-1.jpg" group-title="+1 Heure",TF1 +1 HD
+http://ndasat.net:8000/live/313516512519026/1593574628/15156.ts
+#EXTINF:-1 tvg-id="France2.fr" tvg-name="France 2 HD" tvg-logo="https://zupimages.net/up/18/15/b2j3.png" group-title="1.1 France HD",France 2 HD
+http://ndasat.net:8000/live/313516512519026/1593574628/7824.ts
+#EXTINF:-1 tvg-id="France3.fr" tvg-name="France 3 HD" tvg-logo="https://zupimages.net/up/18/15/fmao.png" group-title="1.1 France HD",France 3 HD
+http://ndasat.net:8000/live/313516512519026/1593574628/7823.ts
+#EXTINF:-1 tvg-id="CANALplus.fr" tvg-name="CANAL+  HD" tvg-logo="https://zupimages.net/up/18/15/2y10.png" group-title="1.1 France HD",CANAL+  HD
+http://ndasat.net:8000/live/313516512519026/1593574628/7809.ts
+#EXTINF:-1 tvg-id="France5.fr" tvg-name="France 5 HD" tvg-logo="https://zupimages.net/up/18/15/p1pd.png" group-title="1.1 France HD",France 5 HD
+http://ndasat.net:8000/live/313516512519026/1593574628/7821.ts
+#EXTINF:-1 tvg-id="M6.fr" tvg-name="M6 HD" tvg-logo="http://manager.ndasat.pro/picons/1_0_19_2457_440_1_C00000_0_0_0.png" group-title="1.1 France HD",M6 HD
+http://ndasat.net:8000/live/313516512519026/1593574628/7818.ts
+#EXTINF:-1 tvg-id="ARTE.fr" tvg-name="Arte HD" tvg-logo="http://manager.ndasat.pro/picons/ARTE.png" group-title="1.1 France HD",Arte HD
+http://ndasat.net:8000/live/313516512519026/1593574628/7732.ts
+#EXTINF:-1 tvg-id="C8.fr" tvg-name="C8 HD" tvg-logo="http://image.cellulaire.fr/channel/c8-hd-chaine-guide-tv.png" group-title="1.1 France HD",C8 HD
+http://ndasat.net:8000/live/313516512519026/1593574628/7744.ts
+#EXTINF:-1 tvg-id="W9.fr" tvg-name="W9 HD" tvg-logo="http://manager.ndasat.pro/picons/W9.png" group-title="1.1 France HD",W9 HD
+http://ndasat.net:8000/live/313516512519026/1593574628/7742.ts
+#EXTINF:-1 tvg-id="TMC.fr" tvg-name="TMC HD" tvg-logo="http://www.webmaster-gratuit.com/pict/play-tmc.jpg" group-title="1.1 France HD",TMC HD
+http://ndasat.net:8000/live/313516512519026/1593574628/7839.ts
+#EXTINF:-1 tvg-id="NT1.fr" tvg-name="TFX HD" tvg-logo="https://zupimages.net/up/18/15/u3i1.png" group-title="1.1 France HD",TFX HD
+http://ndasat.net:8000/live/313516512519026/1593574628/7782.ts
+#EXTINF:-1 tvg-id="NRJ12.fr" tvg-name="NRJ 12HD" tvg-logo="http://3.bp.blogspot.com/-8dDK66pdYCI/VQNzhhCmsbI/AAAAAAAAAMY/xw5w6cpFp90/s1600/NRJ12_HD.png" group-title="1.1 France HD",NRJ 12HD
+http://ndasat.net:8000/live/313516512519026/1593574628/7810.ts
+#EXTINF:-1 tvg-id="LCP.fr" tvg-name="LCP HD" tvg-logo="https://pbs.twimg.com/profile_images/778536550992900096/1qWAMC5D.jpg" group-title="1.1 France HD",LCP HD
+http://ndasat.net:8000/live/313516512519026/1593574628/7829.ts
+#EXTINF:-1 tvg-id="France4.fr" tvg-name="France 4 HD" tvg-logo="https://zupimages.net/up/18/15/emi2.png" group-title="1.1 France HD",France 4 HD
+http://ndasat.net:8000/live/313516512519026/1593574628/7822.ts
+#EXTINF:-1 tvg-id="BFMTV.fr" tvg-name="BFM TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/8/8a/BFM_TV_logo_%282016%29.png" group-title="1.1 France HD",BFM TV HD
+http://ndasat.net:8000/live/313516512519026/1593574628/7733.ts
+#EXTINF:-1 tvg-id="CNews.fr" tvg-name="CNEWS HD" tvg-logo="http://cdn.mypanel.tv/picon/fr/CNews.fr.png" group-title="1.1 France HD",CNEWS HD
+http://ndasat.net:8000/live/313516512519026/1593574628/7739.ts
+#EXTINF:-1 tvg-id="CStar.fr" tvg-name="CSTAR HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Canal_Star_logo.svg/640px-Canal_Star_logo.svg.png" group-title="1.1 France HD",CSTAR HD
+http://ndasat.net:8000/live/313516512519026/1593574628/7743.ts
+#EXTINF:-1 tvg-id="Gulli.fr" tvg-name="Gulli HD" tvg-logo="http://picon.space/gulli.png" group-title="1.1 France HD",Gulli HD
+http://ndasat.net:8000/live/313516512519026/1593574628/7722.ts
+#EXTINF:-1 tvg-id="FranceO.fr" tvg-name="France O HD" tvg-logo="https://zupimages.net/up/18/15/mynb.png" group-title="1.1 France HD",France O HD
+http://ndasat.net:8000/live/313516512519026/1593574628/7820.ts
+#EXTINF:-1 tvg-id="HD1.fr" tvg-name="TF1 Series & Films HD" tvg-logo="https://zupimages.net/up/18/15/hvkj.png" group-title="1.1 France HD",TF1 Series & Films HD
+http://ndasat.net:8000/live/313516512519026/1593574628/7790.ts
+#EXTINF:-1 tvg-id="EquipeTV.fr" tvg-name="La chaine lequipe HD" tvg-logo="http://www.ledirect.fr/uploads/channels/2263_6872.png" group-title="1.1 France HD",La chaine lequipe HD
+http://ndasat.net:8000/live/313516512519026/1593574628/7735.ts
+#EXTINF:-1 tvg-id="6ter.fr" tvg-name="6Ter HD" tvg-logo="https://cdn2.nextinpact.com/images/bd/news/124355.png" group-title="1.1 France HD",6Ter HD
+http://ndasat.net:8000/live/313516512519026/1593574628/7745.ts
+#EXTINF:-1 tvg-id="Numero23.fr" tvg-name="RMC STORY HD" tvg-logo="https://s1.gulfupload.com/i/00046/9ni76cfceob4.png" group-title="1.1 France HD",RMC STORY HD
+http://ndasat.net:8000/live/313516512519026/1593574628/8517.ts
+#EXTINF:-1 tvg-id="RMCdecouverte.fr" tvg-name="RMC DECOUVERTE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/73/Logo_RMC_D%C3%A9couverte_2012.png" group-title="1.1 France HD",RMC DECOUVERTE HD
+http://ndasat.net:8000/live/313516512519026/1593574628/7746.ts
+#EXTINF:-1 tvg-id="Cherie25.fr" tvg-name="CHERIE 25 HD" tvg-logo="http://adamis-prod.com/wp-content/uploads/2015/09/cherie25.png" group-title="1.1 France HD",CHERIE 25 HD
+http://ndasat.net:8000/live/313516512519026/1593574628/7747.ts
+#EXTINF:-1 tvg-id="" tvg-name="LCI  HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/f/f5/LCI_logo_2017.png" group-title="1.1 France HD",LCI  HD
+http://ndasat.net:8000/live/313516512519026/1593574628/14793.ts
+#EXTINF:-1 tvg-id="Franceinfo.fr" tvg-name="France info HD" tvg-logo="http://cdn.mypanel.tv/picon/fr/FranceInfo.fr.png" group-title="1.1 France HD",France info HD
+http://ndasat.net:8000/live/313516512519026/1593574628/8518.ts
+#EXTINF:-1 tvg-id="13RUE.fr" tvg-name="13EME RUE HD" tvg-logo="http://www.kabelmax.tv/files/logopack/13eme%20rue.png" group-title="1.1 France HD",13EME RUE HD
+http://ndasat.net:8000/live/313516512519026/1593574628/7754.ts
+#EXTINF:-1 tvg-id="CANALplusDECALE.fr" tvg-name="CANAL+  DECALE HD" tvg-logo="http://www.dvbxtreme.com/wp-content/uploads/2016/08/Canal-D%C3%A9cal%C3%A9-HD.png" group-title="1.1 France HD",CANAL+  DECALE HD
+http://ndasat.net:8000/live/313516512519026/1593574628/7806.ts
+#EXTINF:-1 tvg-id="CANALplusFamily.fr" tvg-name="CANAL+  FAMILY HD" tvg-logo="https://vignette2.wikia.nocookie.net/dreamlogos/images/9/9b/Canal%2B_Family_1995.png" group-title="1.1 France HD",CANAL+  FAMILY HD
+http://ndasat.net:8000/live/313516512519026/1593574628/7807.ts
+#EXTINF:-1 tvg-id="CanalplusSeries.fr" tvg-name="CANAL+  SERIES HD" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/2/26/CANAL_%2B_SERIES_HD_2013.jpg" group-title="1.1 France HD",CANAL+  SERIES HD
+http://ndasat.net:8000/live/313516512519026/1593574628/7805.ts
+#EXTINF:-1 tvg-id="CANALplusSPORT.fr" tvg-name="CANAL+  SPORT HD" tvg-logo="https://selectra.info/images/telecom/canal%2B-sport.jpg" group-title="1.1 France HD",CANAL+  SPORT HD
+http://ndasat.net:8000/live/313516512519026/1593574628/7804.ts
+#EXTINF:-1 tvg-id="CANALplusCINEMA.fr" tvg-name="CANAL+ CINEMA HD" tvg-logo="http://www.dvbxtreme.com/wp-content/uploads/2016/08/Canal-Cinema-logo.png" group-title="1.1 France HD",CANAL+ CINEMA HD
+http://ndasat.net:8000/live/313516512519026/1593574628/7808.ts
+#EXTINF:-1 tvg-id="CinecinemaPremier.fr" tvg-name="CINE + PREMIERE HD" tvg-logo="https://alloforfait.fr/wp-content/uploads/2015/04/cine-premier-300x200.png" group-title="1.1 France HD",CINE + PREMIERE HD
+http://ndasat.net:8000/live/313516512519026/1593574628/7803.ts
+#EXTINF:-1 tvg-id="CinecinemaFrisson.fr" tvg-name="CINE + FRISSON HD" tvg-logo="http://image.cellulaire.fr/channel/cine-frisson-hd-chaine-guide-tv.png" group-title="1.1 France HD",CINE + FRISSON HD
+http://ndasat.net:8000/live/313516512519026/1593574628/7802.ts
+#EXTINF:-1 tvg-id="CinecinemaEmotion.fr" tvg-name="CINE + EMOTION HD" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/4/4c/Cine_plus_emotion.png" group-title="1.1 France HD",CINE + EMOTION HD
+http://ndasat.net:8000/live/313516512519026/1593574628/7800.ts
+#EXTINF:-1 tvg-id="CinecinemaClassic.fr" tvg-name="CINE+ CLASSIC  HD" tvg-logo="http://www.dvbxtreme.com/wp-content/uploads/2016/08/Cine-Classic-HD.png" group-title="1.1 France HD",CINE+ CLASSIC  HD
+http://ndasat.net:8000/live/313516512519026/1593574628/7799.ts
+#EXTINF:-1 tvg-id="CinecinemaFamiz.fr" tvg-name="CINE + FAMIZ  HD" tvg-logo="http://cdn.mypanel.tv/picon/cineplusfamiz.png" group-title="1.1 France HD",CINE + FAMIZ  HD
+http://ndasat.net:8000/live/313516512519026/1593574628/7801.ts
+#EXTINF:-1 tvg-id="CinecinemaClub.fr" tvg-name="Cine+ Club HD" tvg-logo="https://media3.woopic.com/api/v1/images/201%2Fchannel%2Fc7b%2Faf0%2F3ff45e6411db79c7583c8ef30d%2Fcine-club%7Cclair_285.png?facedetect=1&quality=85" group-title="1.1 France HD",Cine+ Club HD
+http://ndasat.net:8000/live/313516512519026/1593574628/13526.ts
+#EXTINF:-1 tvg-id="" tvg-name="POLAR+ HD" tvg-logo="https://thumb.canalplus.pro/bran/unsafe/%7BresolutionXY%7D/image/89/6/chn43fb_40125_20170928.29896.png" group-title="1.1 France HD",POLAR+ HD
+http://ndasat.net:8000/live/313516512519026/1593574628/10339.ts
+#EXTINF:-1 tvg-id="OrangeCinechoc.fr" tvg-name="OCS CHOC HD" tvg-logo="http://www.dvbxtreme.com/wp-content/uploads/2016/06/OCS-Choc-HD.png" group-title="1.1 France HD",OCS CHOC HD
+http://ndasat.net:8000/live/313516512519026/1593574628/7796.ts
+#EXTINF:-1 tvg-id="OCSCity" tvg-name="OCS CITY HD" tvg-logo="https://www.vialis.tm.fr/sites/default/files/cable/ocs_city.jpg" group-title="1.1 France HD",OCS CITY HD
+http://ndasat.net:8000/live/313516512519026/1593574628/7797.ts
+#EXTINF:-1 tvg-id="OCSGeants" tvg-name="OCS GEANTS HD" tvg-logo="http://image.cellulaire.fr/channel/ocs-geants-chaine-guide-tv.png" group-title="1.1 France HD",OCS GEANTS HD
+http://ndasat.net:8000/live/313516512519026/1593574628/7798.ts
+#EXTINF:-1 tvg-id="OrangeCinemax.fr" tvg-name="OCS MAX HD" tvg-logo="http://image.cellulaire.fr/channel/ocs-max-chaine-guide-tv.png" group-title="1.1 France HD",OCS MAX HD
+http://ndasat.net:8000/live/313516512519026/1593574628/7842.ts
+#EXTINF:-1 tvg-id="AlticeStudio.fr" tvg-name="ALTICE STUDIO HD" tvg-logo="https://zupimages.net/up/18/15/1oi5.png" group-title="1.1 France HD",ALTICE STUDIO HD
+http://ndasat.net:8000/live/313516512519026/1593574628/7833.ts
+#EXTINF:-1 tvg-id="CrimeDistrict" tvg-name="Crime DIstrict HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/Crime_district.jpg" group-title="1.1 France HD",Crime DIstrict HD
+http://ndasat.net:8000/live/313516512519026/1593574628/8771.ts
+#EXTINF:-1 tvg-id="ParamountChannelDecale.fr" tvg-name="PARAMOUNT DECALE HD" tvg-logo="https://vignette2.wikia.nocookie.net/fictionaltvstations/images/4/40/Paramount_News_Network.png" group-title="1.1 France HD",PARAMOUNT DECALE HD
+http://ndasat.net:8000/live/313516512519026/1593574628/7793.ts
+#EXTINF:-1 tvg-id="ParamountChannelDecale.fr" tvg-name="PARAMOUNT CHANNEL HD" tvg-logo="http://www.paramountchannel.fr/wp-content/themes/paramountfr/img/logo_r_paramount_channel_blue.png" group-title="1.1 France HD",PARAMOUNT CHANNEL HD
+http://ndasat.net:8000/live/313516512519026/1593574628/7794.ts
+#EXTINF:-1 tvg-id="WarnerTV" tvg-name="Warner TV HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7a/Warner_HD.png" group-title="1.1 France HD",Warner TV HD
+http://ndasat.net:8000/live/313516512519026/1593574628/13043.ts
+#EXTINF:-1 tvg-id="SundanceChannel.fr" tvg-name="Sundance TV HD" tvg-logo="http://puncture.org/wp/wp-content/uploads/2014/09/sundancetv.png" group-title="1.1 France HD",Sundance TV HD
+http://ndasat.net:8000/live/313516512519026/1593574628/8519.ts
+#EXTINF:-1 tvg-id="Action.fr" tvg-name="ACTION HD" tvg-logo="https://alloforfait.fr/wp-content/uploads/2015/10/Action-logo-2015-267x200.jpg" group-title="1.1 France HD",ACTION HD
+http://ndasat.net:8000/live/313516512519026/1593574628/7784.ts
+#EXTINF:-1 tvg-id="TMCplus1.fr" tvg-name="TCM CINEMA HD" tvg-logo="http://picon.space/tcmcinema.png" group-title="1.1 France HD",TCM CINEMA HD
+http://ndasat.net:8000/live/313516512519026/1593574628/7785.ts
+#EXTINF:-1 tvg-id="Syfy.fr" tvg-name="Syfy HD" tvg-logo="http://www.syfy.com/sites/syfy/files/tve_auth2/Syfylogo.png" group-title="1.1 France HD",Syfy HD
+http://ndasat.net:8000/live/313516512519026/1593574628/7840.ts
+#EXTINF:-1 tvg-id="Comedie.fr" tvg-name="COMEDIE HD" tvg-logo="http://fr.academic.ru/pictures/frwiki/76/Logocomedie.png" group-title="1.1 France HD",COMEDIE HD
+http://ndasat.net:8000/live/313516512519026/1593574628/7786.ts
+#EXTINF:-1 tvg-id="SerieClub.fr" tvg-name="SERIE CLUB HD" tvg-logo="http://4.bp.blogspot.com/-svUNcuW1h2w/UXP4BuhA76I/AAAAAAAAG-Y/ChdfGThlaHI/s1600/image+logo+S%C3%A9rie+Club+Astra+channel+tv.png" group-title="1.1 France HD",SERIE CLUB HD
+http://ndasat.net:8000/live/313516512519026/1593574628/7795.ts
+#EXTINF:-1 tvg-id="ParisPremiere.fr" tvg-name="Paris Premiere  HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/10/Paris_Premier.PNG" group-title="1.1 France HD",Paris Premiere  HD
+http://ndasat.net:8000/live/313516512519026/1593574628/7791.ts
+#EXTINF:-1 tvg-id="Eentertainment.fr" tvg-name="E ENTERTAINMENT HD" tvg-logo="http://static.programme-tv.net/logo_chaine_goprod/148/141.png" group-title="1.1 France HD",E ENTERTAINMENT HD
+http://ndasat.net:8000/live/313516512519026/1593574628/7789.ts
+#EXTINF:-1 tvg-id="RTL9.fr" tvg-name="RTL9 HD" tvg-logo="http://www.dvbxtreme.com/wp-content/uploads/2016/11/RTL9-HD.png" group-title="1.1 France HD",RTL9 HD
+http://ndasat.net:8000/live/313516512519026/1593574628/7783.ts
+#EXTINF:-1 tvg-id="AB1.fr" tvg-name="AB1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/46/AB1_channel_logo.png" group-title="1.1 France HD",AB1 HD
+http://ndasat.net:8000/live/313516512519026/1593574628/7780.ts
+#EXTINF:-1 tvg-id="TVBreizh.fr" tvg-name="TV BREIZH HD" tvg-logo="http://www.tele.lu/var/ezflow_site/storage/images/channel-2-items/tv-breizh-hd/286604-2-ger-DE/TV-Breizh-HD_logobig.png" group-title="1.1 France HD",TV BREIZH HD
+http://ndasat.net:8000/live/313516512519026/1593574628/7777.ts
+#EXTINF:-1 tvg-id="MyCuisine.fr" tvg-name="MY CUISINE HD" tvg-logo="https://pbs.twimg.com/profile_images/870582889028739072/qTpOYPoj.jpg" group-title="1.1 France HD",MY CUISINE HD
+http://ndasat.net:8000/live/313516512519026/1593574628/8520.ts
+#EXTINF:-1 tvg-id="BET.fr" tvg-name="BET HD" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/bettv.png" group-title="1.1 France HD",BET HD
+http://ndasat.net:8000/live/313516512519026/1593574628/10814.ts
+#EXTINF:-1 tvg-id="Viceland" tvg-name="VICELAND HD" tvg-logo="http://cdn.campaignbrief.com/wa/assets_c/2016/10/Viceland_BLOG-thumb-300x214-233326.jpg" group-title="1.1 France HD",VICELAND HD
+http://ndasat.net:8000/live/313516512519026/1593574628/11911.ts
+#EXTINF:-1 tvg-id="Museum.fr" tvg-name="THE MUSEUM CHANNEL HD" tvg-logo="http://2.bp.blogspot.com/-F_h-bk7KLic/UdWsqhjprWI/AAAAAAAAESI/xQCJr0-AUaE/s200/The+Museum+Channel+logo+2.png" group-title="1.1 France HD",THE MUSEUM CHANNEL HD
+http://ndasat.net:8000/live/313516512519026/1593574628/7792.ts
+#EXTINF:-1 tvg-id="RMCSportAccess1" tvg-name="RMC SPORT 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Logo_RMC_Sport_2018.png" group-title="1.1 France HD",RMC SPORT 1 HD
+http://ndasat.net:8000/live/313516512519026/1593574628/15817.ts
+#EXTINF:-1 tvg-id="RMCSportAccess2" tvg-name="RMC SPORT 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Logo_RMC_Sport_2018.png" group-title="1.1 France HD",RMC SPORT 2 HD
+http://ndasat.net:8000/live/313516512519026/1593574628/15818.ts
+#EXTINF:-1 tvg-id="RMCSportAccess3" tvg-name="RMC SPORT 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Logo_RMC_Sport_2018.png" group-title="1.1 France HD",RMC SPORT 3 HD
+http://ndasat.net:8000/live/313516512519026/1593574628/15819.ts
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT LIVE 4 HD" tvg-logo="http://www.palpix.com/references/rmc/logo-2x.png" group-title="1.1 France HD",RMC SPORT LIVE 4 HD
+http://ndasat.net:8000/live/313516512519026/1593574628/20606.ts
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT LIVE 5 HD" tvg-logo="https://s1.gulfupload.com/i/00048/6earadu7u043.png" group-title="1.1 France HD",RMC SPORT LIVE 5 HD
+http://ndasat.net:8000/live/313516512519026/1593574628/20308.ts
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT LIVE 6 HD" tvg-logo="https://s1.gulfupload.com/i/00048/nk77nixdel57.png" group-title="1.1 France HD",RMC SPORT LIVE 6 HD
+http://ndasat.net:8000/live/313516512519026/1593574628/20309.ts
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT LIVE 7 HD" tvg-logo="https://s1.gulfupload.com/i/00048/n083yw5upu1c.png" group-title="1.1 France HD",RMC SPORT LIVE 7 HD
+http://ndasat.net:8000/live/313516512519026/1593574628/20310.ts
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT LIVE 8 HD" tvg-logo="" group-title="1.1 France HD",RMC SPORT LIVE 8 HD
+http://ndasat.net:8000/live/313516512519026/1593574628/20605.ts
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT LIVE 9 HD" tvg-logo="" group-title="1.1 France HD",RMC SPORT LIVE 9 HD
+http://ndasat.net:8000/live/313516512519026/1593574628/20604.ts
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT LIVE 10 HD" tvg-logo="" group-title="1.1 France HD",RMC SPORT LIVE 10 HD
+http://ndasat.net:8000/live/313516512519026/1593574628/20603.ts
+#EXTINF:-1 tvg-id="SFRSport1.fr" tvg-name="RMC SPORT Access 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Logo_RMC_Sport_2018.png" group-title="1.1 France HD",RMC SPORT Access 1 HD
+http://ndasat.net:8000/live/313516512519026/1593574628/7776.ts
+#EXTINF:-1 tvg-id="SFRSport2.fr" tvg-name="RMC SPORT Access 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Logo_RMC_Sport_2018.png" group-title="1.1 France HD",RMC SPORT Access 2 HD
+http://ndasat.net:8000/live/313516512519026/1593574628/7775.ts
+#EXTINF:-1 tvg-id="SFRSport3.fr" tvg-name="RMC SPORT Access 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Logo_RMC_Sport_2018.png" group-title="1.1 France HD",RMC SPORT Access 3 HD
+http://ndasat.net:8000/live/313516512519026/1593574628/7774.ts
+#EXTINF:-1 tvg-id="SFRSport4" tvg-name="RMC SPORT Access 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Logo_RMC_Sport_2018.png" group-title="1.1 France HD",RMC SPORT Access 4 HD
+http://ndasat.net:8000/live/313516512519026/1593574628/12912.ts
+#EXTINF:-1 tvg-id="BFMSport" tvg-name="RMC SPORT NEWS HD" tvg-logo="http://www.firstonetv.net/images/logos/fr/RMCSPORTNEWS.png" group-title="1.1 France HD",RMC SPORT NEWS HD
+http://ndasat.net:8000/live/313516512519026/1593574628/13042.ts
+#EXTINF:-1 tvg-id="Infosport.fr" tvg-name="INFOSPORT HD" tvg-logo="http://www.replaytvdirect.fr/logo/infosport-plus.jpg" group-title="1.1 France HD",INFOSPORT HD
+http://ndasat.net:8000/live/313516512519026/1593574628/7771.ts
+#EXTINF:-1 tvg-id="ExtremeSports.fr" tvg-name="EXTREME SPORT HD" tvg-logo="https://extremesportsteobaldo.files.wordpress.com/2016/05/extreme-sports.jpg" group-title="1.1 France HD",EXTREME SPORT HD
+http://ndasat.net:8000/live/313516512519026/1593574628/7767.ts
+#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="EUROSPORT 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6b/Eurosport_1_Logo.jpg" group-title="1.1 France HD",EUROSPORT 1 HD
+http://ndasat.net:8000/live/313516512519026/1593574628/7736.ts
+#EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="EUROSPORT 2 HD" tvg-logo="http://partner.ulango.tv/uploads/channels/3780545/logo_eurosport%202.png" group-title="1.1 France HD",EUROSPORT 2 HD
+http://ndasat.net:8000/live/313516512519026/1593574628/7828.ts
+#EXTINF:-1 tvg-id="EquidiaLive.fr" tvg-name="EQUIDIA LIVE HD" tvg-logo="https://www.vialis.tm.fr/sites/default/files/cable/Equidia_Live_2011.png" group-title="1.1 France HD",EQUIDIA LIVE HD
+http://ndasat.net:8000/live/313516512519026/1593574628/7770.ts
+#EXTINF:-1 tvg-id="ABMoteurs.fr" tvg-name="AB MOTEURS HD" tvg-logo="https://www.grapheine.com/wp-content/uploads/2012/12/logo-abmoteurs-2013.jpg" group-title="1.1 France HD",AB MOTEURS HD
+http://ndasat.net:8000/live/313516512519026/1593574628/7838.ts
+#EXTINF:-1 tvg-id="" tvg-name="MOTORS HD" tvg-logo="http://www.dvbxtreme.com/wp-content/uploads/2016/07/motors-tv-logo-300x300.png" group-title="1.1 France HD",MOTORS HD
+http://ndasat.net:8000/live/313516512519026/1593574628/7781.ts
